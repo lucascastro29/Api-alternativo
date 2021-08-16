@@ -1,0 +1,35 @@
+{
+    "CPU":[
+        {"Nombre":"Intel Core i9",
+        "Marca":"Intel",
+        "Precio":"$100"},
+        {"Nombre":"AMD Ryzed 9",
+        "Marca":"AMD",
+        "Precio":"$100"}
+    ],
+    "GPU":[
+        {"Nombre":"Radeon",
+        "Marca":"AMD",
+        "Precio":"$150"},
+        {"Nombre":"GeForce 2080",
+        "Marca":"NVIDIA",
+        "Precio":"$150"}
+    ],
+    "Memoria_Ram":[
+        {"Nombre":"Memoria Ram ddr4",
+        "Marca":"Kingston",
+        "Precio":"$50"},
+        {"Nombre":"Fury ddr4",
+        "Marca":"HyperX",
+        "Precio":"$50"}
+    ],
+    "Fuentes de alimentación":[
+        {"Nombre":"Focus",
+        "Marca":"Seasonic",
+        "Precio":"$50"},
+        {"Nombre":"TX550M",
+        "Marca":"Corsair",
+        "Precio":"$50"}
+
+    ]
+}
